@@ -1,0 +1,17 @@
+{
+  "name": "project0",
+  "version": "1.0.0",
+  "description": "Homepage design",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thierry Mwamba",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.5.0",
+    "popper": "^1.0.1",
+    "scss": "^0.2.4"
+  }
+}

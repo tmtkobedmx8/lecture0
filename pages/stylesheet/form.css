@@ -1,0 +1,17 @@
+body {
+    background: black !important;
+    width: 100%;
+    height: 100;
+}
+
+form {
+    max-width: 50%;
+    margin: 20% auto;
+}
+
+.title {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-weight: 100;
+    color: dimgrey;
+}
