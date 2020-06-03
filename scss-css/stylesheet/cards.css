@@ -1,0 +1,19 @@
+.card-group {
+  /* display: flex; */
+  position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.card {
+  /* flex: 4; */
+  margin: 5px;
+  width: 700px !important;
+}
+
+.cards-title {
+  margin-top: 100px;
+  text-align: center;
+  color: aliceblue
+}
